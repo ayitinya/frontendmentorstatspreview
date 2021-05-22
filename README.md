@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ayitinya/frontendmentorstatspreview](https://github.com/ayitinya/frontendmentorstatspreview)
 
 ## My process
 
@@ -57,5 +56,5 @@ Write code for images with color overlays using two different methods of which o
 }
 ```
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ayitinya](https://www.frontendmentor.io/profile/ayitinya)
 - Twitter - [@ayitinya](https://www.twitter.com/ayitinya)
